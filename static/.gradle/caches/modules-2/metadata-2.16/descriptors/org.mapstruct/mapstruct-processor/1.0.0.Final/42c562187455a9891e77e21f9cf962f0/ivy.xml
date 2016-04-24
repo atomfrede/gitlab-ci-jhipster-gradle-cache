@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
+  <info organisation="org.mapstruct" module="mapstruct-processor" revision="1.0.0.Final" status="release" publication="20160424115708">
+    <description homepage=""/>
+  </info>
+  <configurations>
+    <conf name="default" visibility="public" description="runtime dependencies and master artifact can be used with this conf" extends="runtime,master"/>
+    <conf name="master" visibility="public" description="contains only the artifact published by this module itself, with no transitive dependencies"/>
+    <conf name="compile" visibility="public" description="this is the default scope, used if none is specified. Compile dependencies are available in all classpaths."/>
+    <conf name="provided" visibility="public" description="this is much like compile, but indicates you expect the JDK or a container to provide it. It is only available on the compilation classpath, and is not transitive."/>
+    <conf name="runtime" visibility="public" description="this scope indicates that the dependency is not required for compilation, but is for execution. It is in the runtime and test classpaths, but not the compile classpath." extends="compile"/>
+    <conf name="test" visibility="private" description="this scope indicates that the dependency is not required for normal use of the application, and is only available for the test compilation and execution phases." extends="runtime"/>
+    <conf name="system" visibility="public" description="this scope is similar to provided except that you have to provide the JAR which contains it explicitly. The artifact is always available and is not looked up in a repository."/>
+    <conf name="sources" visibility="public" description="this configuration contains the source artifact of this module, if any."/>
+    <conf name="javadoc" visibility="public" description="this configuration contains the javadoc artifact of this module, if any."/>
+    <conf name="optional" visibility="public" description="contains all optional dependencies"/>
+  </configurations>
+  <publications/>
+  <dependencies>
+    <dependency org="com.jolira" name="hickory" rev="1.0.0" force="true" conf="provided-&gt;compile(*),provided(*),runtime(*),master(*)"/>
+    <dependency org="org.mapstruct" name="mapstruct" rev="1.0.0.Final" force="true" conf="provided-&gt;compile(*),provided(*),runtime(*),master(*)"/>
+    <dependency org="org.eclipse.tycho" name="tycho-compiler-jdt" rev="0.23.1" force="true" conf="optional-&gt;compile(*),provided(*),runtime(*),master(*)">
+      <exclude org="org.eclipse.tycho" module="org.eclipse.jdt.core" name="*" type="*" ext="*" conf="" matcher="exact"/>
+      <exclude org="org.eclipse.tycho" module="org.eclipse.jdt.compiler.apt" name="*" type="*" ext="*" conf="" matcher="exact"/>
+      <exclude org="org.codehaus.plexus" module="plexus-compiler-api" name="*" type="*" ext="*" conf="" matcher="exact"/>
+      <exclude org="org.codehaus.plexus" module="plexus-component-annotations" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="junit" name="junit" rev="4.12" force="true" conf="test-&gt;runtime(*),master(*)">
+      <exclude org="org.hamcrest" module="hamcrest-core" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="org.easytesting" name="fest-assert" rev="1.4" force="true" conf="test-&gt;runtime(*),master(*)">
+      <exclude org="org.easytesting" module="fest-util" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="com.google.guava" name="guava" rev="14.0.1" force="true" conf="test-&gt;runtime(*),master(*)"/>
+    <dependency org="com.puppycrawl.tools" name="checkstyle" rev="5.9" force="true" conf="test-&gt;runtime(*),master(*)">
+      <exclude org="antlr" module="antlr" name="*" type="*" ext="*" conf="" matcher="exact"/>
+      <exclude org="commons-beanutils" module="commons-beanutils-core" name="*" type="*" ext="*" conf="" matcher="exact"/>
+      <exclude org="commons-cli" module="commons-cli" name="*" type="*" ext="*" conf="" matcher="exact"/>
+      <exclude org="com.google.guava" module="guava-jdk5" name="*" type="*" ext="*" conf="" matcher="exact"/>
+      <exclude org="com.sun" module="tools" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="javax.inject" name="javax.inject" rev="1" force="true" conf="test-&gt;runtime(*),master(*)"/>
+    <dependency org="org.codehaus.plexus" name="plexus-container-default" rev="1.6" force="true" conf="test-&gt;runtime(*),master(*)">
+      <exclude org="org.codehaus.plexus" module="plexus-utils" name="*" type="*" ext="*" conf="" matcher="exact"/>
+      <exclude org="org.codehaus.plexus" module="plexus-classworlds" name="*" type="*" ext="*" conf="" matcher="exact"/>
+      <exclude org="org.apache.xbean" module="xbean-reflect" name="*" type="*" ext="*" conf="" matcher="exact"/>
+      <exclude org="com.google.collections" module="google-collections" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="org.springframework" name="spring-test" rev="4.0.3.RELEASE" force="true" conf="test-&gt;runtime(*),master(*)">
+      <exclude org="org.springframework" module="spring-core" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="org.springframework" name="spring-beans" rev="4.0.3.RELEASE" force="true" conf="test-&gt;runtime(*),master(*)">
+      <exclude org="org.springframework" module="spring-core" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="org.springframework" name="spring-context" rev="4.0.3.RELEASE" force="true" conf="test-&gt;runtime(*),master(*)">
+      <exclude org="org.springframework" module="spring-aop" name="*" type="*" ext="*" conf="" matcher="exact"/>
+      <exclude org="org.springframework" module="spring-expression" name="*" type="*" ext="*" conf="" matcher="exact"/>
+      <exclude org="org.springframework" module="spring-core" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="joda-time" name="joda-time" rev="2.9" force="true" conf="test-&gt;runtime(*),master(*)"/>
+  </dependencies>
+</ivy-module>

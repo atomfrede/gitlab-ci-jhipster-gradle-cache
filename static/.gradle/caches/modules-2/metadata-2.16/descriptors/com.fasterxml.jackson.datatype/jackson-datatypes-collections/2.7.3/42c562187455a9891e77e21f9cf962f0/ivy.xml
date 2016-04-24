@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.fasterxml.jackson.datatype" module="jackson-datatypes-collections" revision="2.7.3" status="release" publication="20160424115812">
+  <info organisation="com.fasterxml.jackson.datatype" module="jackson-datatypes-collections" revision="2.7.3" status="release" publication="20160424145604">
     <description homepage="https://github.com/FasterXML/jackson-datatypes-collections">Parent pom for Jackson Collection datatype modules.</description>
   </info>
   <configurations>

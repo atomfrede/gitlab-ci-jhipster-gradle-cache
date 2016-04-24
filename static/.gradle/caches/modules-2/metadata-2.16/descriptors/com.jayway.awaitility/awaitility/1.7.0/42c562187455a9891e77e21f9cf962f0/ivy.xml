@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.jayway.awaitility" module="awaitility" revision="1.7.0" status="release" publication="20160424132753">
+  <info organisation="com.jayway.awaitility" module="awaitility" revision="1.7.0" status="release" publication="20160424150130">
     <description homepage="http://github.com/jayway/awaitility">A Java DSL for synchronizing asynchronous operations</description>
   </info>
   <configurations>

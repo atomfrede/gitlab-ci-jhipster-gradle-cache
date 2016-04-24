@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.jcraft" module="jzlib" revision="1.1.3" status="release" publication="20160424132920">
+  <info organisation="com.jcraft" module="jzlib" revision="1.1.3" status="release" publication="20160424150254">
     <license name="BSD" url="http://www.jcraft.com/jzlib/LICENSE.txt"/>
     <description homepage="http://www.jcraft.com/jzlib/">JZlib is a re-implementation of zlib in pure Java</description>
   </info>

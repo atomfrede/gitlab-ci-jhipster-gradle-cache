@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.github.jnr" module="jnr-x86asm" revision="1.0.2" status="release" publication="20160424115624">
+  <info organisation="com.github.jnr" module="jnr-x86asm" revision="1.0.2" status="release" publication="20160424145434">
     <license name="MIT License" url="http://www.opensource.org/licenses/mit-license.php"/>
     <description homepage="http://github.com/jnr/jnr-x86asm">A pure-java X86 and X86_64 assembler</description>
   </info>

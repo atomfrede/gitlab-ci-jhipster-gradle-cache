@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.apache.httpcomponents" module="httpcomponents-core" revision="4.2.4" status="release" publication="20160424115625">
+  <info organisation="org.apache.httpcomponents" module="httpcomponents-core" revision="4.2.4" status="release" publication="20160424145435">
     <license name="Apache License" url="LICENSE.txt"/>
     <description homepage="http://hc.apache.org/httpcomponents-core">Core components to build HTTP enabled services</description>
   </info>

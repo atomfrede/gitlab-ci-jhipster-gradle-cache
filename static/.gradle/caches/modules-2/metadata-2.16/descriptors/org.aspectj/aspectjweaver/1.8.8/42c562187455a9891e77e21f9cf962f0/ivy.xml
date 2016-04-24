@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.aspectj" module="aspectjweaver" revision="1.8.8" status="release" publication="20160424120153">
+  <info organisation="org.aspectj" module="aspectjweaver" revision="1.8.8" status="release" publication="20160424145905">
     <license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/legal/epl-v10.html"/>
     <description homepage="http://www.aspectj.org">The AspectJ weaver introduces advices to java classes</description>
   </info>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="net.ltgt.gradle" module="gradle-apt-plugin" revision="0.6" status="release" publication="20160424115600">
+  <info organisation="net.ltgt.gradle" module="gradle-apt-plugin" revision="0.6" status="release" publication="20160424145412">
     <description homepage=""/>
   </info>
   <configurations>

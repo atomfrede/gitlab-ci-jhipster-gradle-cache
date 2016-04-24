@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.apache.commons" module="commons-parent" revision="34" status="release" publication="20160424120306">
+  <info organisation="org.apache.commons" module="commons-parent" revision="34" status="release" publication="20160424150010">
     <description homepage="http://commons.apache.org/">The Apache Commons Parent POM provides common settings for all Apache Commons components.</description>
   </info>
   <configurations>

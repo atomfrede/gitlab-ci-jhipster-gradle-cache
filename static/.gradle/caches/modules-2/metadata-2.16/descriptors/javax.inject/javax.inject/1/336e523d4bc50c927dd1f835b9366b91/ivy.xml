@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="javax.inject" module="javax.inject" revision="1" status="release" publication="20160424115846">
+  <info organisation="javax.inject" module="javax.inject" revision="1" status="release" publication="20160424145632">
     <license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
     <description homepage="http://code.google.com/p/atinject/">The javax.inject API</description>
   </info>

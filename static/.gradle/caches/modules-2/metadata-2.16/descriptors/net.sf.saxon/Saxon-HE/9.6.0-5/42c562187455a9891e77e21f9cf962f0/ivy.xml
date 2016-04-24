@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="net.sf.saxon" module="Saxon-HE" revision="9.6.0-5" status="release" publication="20160424132915">
+  <info organisation="net.sf.saxon" module="Saxon-HE" revision="9.6.0-5" status="release" publication="20160424150249">
     <license name="Mozilla Public License Version 2.0" url="http://www.mozilla.org/MPL/2.0/"/>
     <description homepage="http://www.saxonica.com/">The XSLT and XQuery Processor</description>
   </info>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.jacoco" module="org.jacoco.build" revision="0.7.4.201502262128" status="release" publication="20160424133012">
+  <info organisation="org.jacoco" module="org.jacoco.build" revision="0.7.4.201502262128" status="release" publication="20160424150345">
     <license name="Eclipse Public License v1.0" url="http://www.eclipse.org/legal/epl-v10.html"/>
     <description homepage="http://jacoco.org">JaCoCo - Java Code Coverage Library</description>
   </info>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="io.gatling" module="jsonpath_2.11" revision="0.6.4" status="release" publication="20160424132909">
+  <info organisation="io.gatling" module="jsonpath_2.11" revision="0.6.4" status="release" publication="20160424150244">
     <license name="Apache" url="http://www.apache.org/licenses/LICENSE-2.0"/>
     <description homepage="http://github.com/gatling/jsonpath">jsonpath</description>
   </info>

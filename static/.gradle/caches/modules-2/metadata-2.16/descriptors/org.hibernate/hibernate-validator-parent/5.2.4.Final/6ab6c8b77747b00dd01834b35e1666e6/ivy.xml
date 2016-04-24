@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.hibernate" module="hibernate-validator-parent" revision="5.2.4.Final" status="release" publication="20160424115918">
+  <info organisation="org.hibernate" module="hibernate-validator-parent" revision="5.2.4.Final" status="release" publication="20160424145700">
     <license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
     <description homepage="http://hibernate.org/validator">Aggregator of the Hibernate Validator modules.</description>
   </info>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.springframework" module="spring-context" revision="4.2.5.RELEASE" status="release" publication="20160424120141">
+  <info organisation="org.springframework" module="spring-context" revision="4.2.5.RELEASE" status="release" publication="20160424145855">
     <license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
     <description homepage="https://github.com/spring-projects/spring-framework">Spring Context</description>
   </info>

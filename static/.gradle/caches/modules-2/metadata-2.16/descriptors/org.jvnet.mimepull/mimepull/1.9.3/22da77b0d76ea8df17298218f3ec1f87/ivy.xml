@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.jvnet.mimepull" module="mimepull" revision="1.9.3" status="release" publication="20160424115614">
+  <info organisation="org.jvnet.mimepull" module="mimepull" revision="1.9.3" status="release" publication="20160424145425">
     <license name="CDDL 1.1" url="https://glassfish.java.net/public/CDDL+GPL_1_1.html"/>
     <license name="GPL2 w/ CPE" url="https://glassfish.java.net/public/CDDL+GPL_1_1.html"/>
     <description homepage="http://mimepull.java.net">Provides a streaming API to access attachments parts in a MIME message.</description>

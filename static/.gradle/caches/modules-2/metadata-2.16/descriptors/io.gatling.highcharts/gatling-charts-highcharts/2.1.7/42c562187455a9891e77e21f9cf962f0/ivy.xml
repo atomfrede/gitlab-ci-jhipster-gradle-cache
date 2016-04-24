@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="io.gatling.highcharts" module="gatling-charts-highcharts" revision="2.1.7" status="release" publication="20160424132808">
+  <info organisation="io.gatling.highcharts" module="gatling-charts-highcharts" revision="2.1.7" status="release" publication="20160424150146">
     <license name="Gatling Highcharts License" url="https://raw.github.com/gatling/gatling-highcharts/master/src/main/resources/META-INF/LICENSE"/>
     <description homepage="http://gatling.io">gatling-charts-highcharts</description>
   </info>

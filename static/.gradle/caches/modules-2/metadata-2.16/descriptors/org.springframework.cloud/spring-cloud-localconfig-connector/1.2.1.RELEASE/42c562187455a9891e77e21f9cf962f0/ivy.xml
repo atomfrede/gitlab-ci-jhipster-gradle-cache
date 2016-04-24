@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.springframework.cloud" module="spring-cloud-localconfig-connector" revision="1.2.1.RELEASE" status="release" publication="20160424115958">
+  <info organisation="org.springframework.cloud" module="spring-cloud-localconfig-connector" revision="1.2.1.RELEASE" status="release" publication="20160424145730">
     <license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
     <description homepage="http://projects.spring.io/spring-cloud">Spring Cloud local-configuration connector</description>
   </info>

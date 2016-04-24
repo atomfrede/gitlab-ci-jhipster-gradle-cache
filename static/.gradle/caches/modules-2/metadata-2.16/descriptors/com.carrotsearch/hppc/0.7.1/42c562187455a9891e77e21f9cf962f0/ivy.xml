@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.carrotsearch" module="hppc" revision="0.7.1" status="release" publication="20160424120059">
+  <info organisation="com.carrotsearch" module="hppc" revision="0.7.1" status="release" publication="20160424145820">
     <description homepage="">High Performance Primitive Collections. 
   Fundamental data structures (maps, sets, lists, stacks, queues) generated for
   combinations of object and primitive types to conserve JVM memory and speed

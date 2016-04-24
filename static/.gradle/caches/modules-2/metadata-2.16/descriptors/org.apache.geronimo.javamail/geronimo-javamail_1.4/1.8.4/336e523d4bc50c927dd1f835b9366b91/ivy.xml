@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.apache.geronimo.javamail" module="geronimo-javamail_1.4" revision="1.8.4" status="release" publication="20160424115856">
+  <info organisation="org.apache.geronimo.javamail" module="geronimo-javamail_1.4" revision="1.8.4" status="release" publication="20160424145642">
     <description homepage="http://geronimo.apache.org/maven/${siteId}/${version}">Geronimmo JavaMail Bundle.</description>
   </info>
   <configurations>

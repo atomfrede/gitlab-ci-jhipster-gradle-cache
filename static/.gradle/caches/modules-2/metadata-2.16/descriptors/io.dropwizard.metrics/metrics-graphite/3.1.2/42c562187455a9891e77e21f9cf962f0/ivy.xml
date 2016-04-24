@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="io.dropwizard.metrics" module="metrics-graphite" revision="3.1.2" status="release" publication="20160424115753">
+  <info organisation="io.dropwizard.metrics" module="metrics-graphite" revision="3.1.2" status="release" publication="20160424145548">
     <description homepage="">A reporter for Metrics which announces measurements to a Graphite server.</description>
   </info>
   <configurations>

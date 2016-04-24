@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.fasterxml.jackson.datatype" module="jackson-datatype-json-org" revision="2.7.3" status="release" publication="20160424115805">
+  <info organisation="com.fasterxml.jackson.datatype" module="jackson-datatype-json-org" revision="2.7.3" status="release" publication="20160424145559">
     <description homepage="http://github.com/FasterXML/jackson-datatype-json-org">Support for datatypes of &quot;org.json&quot; JSON library (see http://json.org/java),
 mainly to make it easier to upgrade code to Jackson, using automated conversions.</description>
   </info>

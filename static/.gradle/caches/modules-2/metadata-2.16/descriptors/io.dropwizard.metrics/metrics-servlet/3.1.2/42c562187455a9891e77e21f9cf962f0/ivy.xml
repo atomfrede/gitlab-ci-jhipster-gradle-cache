@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="io.dropwizard.metrics" module="metrics-servlet" revision="3.1.2" status="release" publication="20160424115759">
+  <info organisation="io.dropwizard.metrics" module="metrics-servlet" revision="3.1.2" status="release" publication="20160424145553">
     <description homepage="">An instrumented filter for servlet environments.</description>
   </info>
   <configurations>

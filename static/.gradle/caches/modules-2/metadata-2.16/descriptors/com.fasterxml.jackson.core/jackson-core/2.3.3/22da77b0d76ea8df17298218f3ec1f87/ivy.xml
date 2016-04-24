@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.fasterxml.jackson.core" module="jackson-core" revision="2.3.3" status="release" publication="20160424115613">
+  <info organisation="com.fasterxml.jackson.core" module="jackson-core" revision="2.3.3" status="release" publication="20160424145424">
     <description homepage="http://wiki.fasterxml.com/JacksonHome">Core Jackson abstractions, basic JSON streaming API implementation</description>
   </info>
   <configurations>

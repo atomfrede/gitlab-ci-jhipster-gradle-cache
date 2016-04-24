@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.jboss" module="jboss-parent" revision="5" status="release" publication="20160424120133">
+  <info organisation="org.jboss" module="jboss-parent" revision="5" status="release" publication="20160424145849">
     <license name="lgpl" url="http://repository.jboss.org/licenses/lgpl-2.1.txt"/>
     <description homepage="http://www.jboss.org">Parent POM for JBoss projects. Provides default project build configuration.</description>
   </info>

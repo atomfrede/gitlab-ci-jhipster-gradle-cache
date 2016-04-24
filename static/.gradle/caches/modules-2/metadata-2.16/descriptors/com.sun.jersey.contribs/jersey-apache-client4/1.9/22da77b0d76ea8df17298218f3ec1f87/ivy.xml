@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.sun.jersey.contribs" module="jersey-apache-client4" revision="1.9" status="release" publication="20160424115609">
+  <info organisation="com.sun.jersey.contribs" module="jersey-apache-client4" revision="1.9" status="release" publication="20160424145420">
     <description homepage=""/>
   </info>
   <configurations>

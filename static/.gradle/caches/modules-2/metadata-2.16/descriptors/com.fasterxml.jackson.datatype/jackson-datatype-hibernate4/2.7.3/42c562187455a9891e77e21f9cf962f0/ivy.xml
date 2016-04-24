@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.fasterxml.jackson.datatype" module="jackson-datatype-hibernate4" revision="2.7.3" status="release" publication="20160424115815">
+  <info organisation="com.fasterxml.jackson.datatype" module="jackson-datatype-hibernate4" revision="2.7.3" status="release" publication="20160424145607">
     <description homepage="https://github.com/FasterXML/jackson-datatype-hibernate">Add-on module for Jackson (http://jackson.codehaus.org) to support
 Hibernate (http://hibernate.org) version 4.x data types.</description>
   </info>

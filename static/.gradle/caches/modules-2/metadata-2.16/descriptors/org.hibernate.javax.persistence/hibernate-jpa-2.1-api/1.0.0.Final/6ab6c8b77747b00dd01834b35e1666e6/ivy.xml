@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.hibernate.javax.persistence" module="hibernate-jpa-2.1-api" revision="1.0.0.Final" status="release" publication="20160424120125">
+  <info organisation="org.hibernate.javax.persistence" module="hibernate-jpa-2.1-api" revision="1.0.0.Final" status="release" publication="20160424145842">
     <license name="Eclipse Public License (EPL), Version 1.0" url="http://www.eclipse.org/legal/epl-v10.html"/>
     <license name="Eclipse Distribution License (EDL), Version 1.0" url="http://www.eclipse.org/org/documents/edl-v10.php"/>
     <description homepage="http://hibernate.org">Clean-room definition of JPA APIs intended for use in developing Hibernate JPA implementation.  See README.md for details</description>

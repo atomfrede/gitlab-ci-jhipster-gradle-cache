@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="joda-time" module="joda-time" revision="2.8.2" status="release" publication="20160424120258">
+  <info organisation="joda-time" module="joda-time" revision="2.8.2" status="release" publication="20160424150002">
     <license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
     <description homepage="http://www.joda.org/joda-time/">Date and time library to replace JDK date handling</description>
   </info>

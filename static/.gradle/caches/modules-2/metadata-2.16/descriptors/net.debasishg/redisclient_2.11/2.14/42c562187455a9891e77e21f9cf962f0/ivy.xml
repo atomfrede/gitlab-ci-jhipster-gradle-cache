@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="net.debasishg" module="redisclient_2.11" revision="2.14" status="release" publication="20160424132944">
+  <info organisation="net.debasishg" module="redisclient_2.11" revision="2.14" status="release" publication="20160424150316">
     <license name="Apache 2.0 License" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
     <description homepage="https://github.com/debasishg/scala-redis">RedisClient</description>
   </info>

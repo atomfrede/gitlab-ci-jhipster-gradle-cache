@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.springframework.data" module="spring-data-releasetrain" revision="Gosling-SR4" status="release" publication="20160424115728">
+  <info organisation="org.springframework.data" module="spring-data-releasetrain" revision="Gosling-SR4" status="release" publication="20160424145526">
     <description homepage="https://github.com/SpringData/spring-data-build">Bill of materials to make sure a consistent set of versions is used for Spring Data modules.</description>
   </info>
   <configurations>

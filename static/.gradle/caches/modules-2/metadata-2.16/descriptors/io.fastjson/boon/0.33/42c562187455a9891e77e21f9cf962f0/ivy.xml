@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="io.fastjson" module="boon" revision="0.33" status="release" publication="20160424132911">
+  <info organisation="io.fastjson" module="boon" revision="0.33" status="release" publication="20160424150245">
     <description homepage="">Simple opinionated Java for the novice to expert level Java Programmer. 
                  Low Ceremony. High Productivity. A real boon to Java to developers!</description>
   </info>

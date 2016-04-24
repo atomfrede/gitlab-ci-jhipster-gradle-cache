@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="net.minidev" module="json-smart" revision="2.1.1" status="release" publication="20160424132815">
+  <info organisation="net.minidev" module="json-smart" revision="2.1.1" status="release" publication="20160424150154">
     <description homepage="">JSON (JavaScript Object Notation) is a lightweight data-interchange format.
     It is easy for humans to read and write. It is easy for machines to parse and generate.
     It is based on a subset of the JavaScript Programming Language, Standard ECMA-262 3rd Edition

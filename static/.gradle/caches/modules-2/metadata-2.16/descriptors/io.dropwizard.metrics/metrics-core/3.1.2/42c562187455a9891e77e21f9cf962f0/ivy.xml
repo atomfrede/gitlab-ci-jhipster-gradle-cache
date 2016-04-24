@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="io.dropwizard.metrics" module="metrics-core" revision="3.1.2" status="release" publication="20160424115745">
+  <info organisation="io.dropwizard.metrics" module="metrics-core" revision="3.1.2" status="release" publication="20160424145542">
     <description homepage="">Metrics is a Java library which gives you unparalleled insight into what your code does in
         production. Metrics provides a powerful toolkit of ways to measure the behavior of critical
         components in your production environment.</description>

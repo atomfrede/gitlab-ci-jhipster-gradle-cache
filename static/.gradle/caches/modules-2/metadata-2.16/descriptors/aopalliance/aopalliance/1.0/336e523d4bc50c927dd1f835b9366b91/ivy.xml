@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="aopalliance" module="aopalliance" revision="1.0" status="release" publication="20160424120227">
+  <info organisation="aopalliance" module="aopalliance" revision="1.0" status="release" publication="20160424145933">
     <license name="Public Domain"/>
     <description homepage="http://aopalliance.sourceforge.net">AOP Alliance</description>
   </info>

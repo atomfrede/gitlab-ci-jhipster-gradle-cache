@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="dom4j" module="dom4j" revision="1.6.1" status="release" publication="20160424120122">
+  <info organisation="dom4j" module="dom4j" revision="1.6.1" status="release" publication="20160424145838">
     <description homepage="http://dom4j.org">dom4j: the flexible XML framework for Java</description>
   </info>
   <configurations>

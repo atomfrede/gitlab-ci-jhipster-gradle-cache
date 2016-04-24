@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.fasterxml.jackson.jaxrs" module="jackson-jaxrs-json-provider" revision="2.3.3" status="release" publication="20160424115607">
+  <info organisation="com.fasterxml.jackson.jaxrs" module="jackson-jaxrs-json-provider" revision="2.3.3" status="release" publication="20160424145417">
     <description homepage="">Functionality to handle JSON input/output for JAX-RS implementations (like Jersey and RESTeasy) using standard Jackson data binding.</description>
   </info>
   <configurations>

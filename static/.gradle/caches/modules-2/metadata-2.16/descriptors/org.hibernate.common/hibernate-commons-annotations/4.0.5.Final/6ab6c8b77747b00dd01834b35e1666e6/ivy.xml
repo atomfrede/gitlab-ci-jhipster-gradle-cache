@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.hibernate.common" module="hibernate-commons-annotations" revision="4.0.5.Final" status="release" publication="20160424120123">
+  <info organisation="org.hibernate.common" module="hibernate-commons-annotations" revision="4.0.5.Final" status="release" publication="20160424145840">
     <license name="GNU Lesser General Public License" url="http://www.gnu.org/licenses/lgpl-2.1.html"/>
     <description homepage="http://hibernate.org">Common reflection code used in support of annotation processing</description>
   </info>

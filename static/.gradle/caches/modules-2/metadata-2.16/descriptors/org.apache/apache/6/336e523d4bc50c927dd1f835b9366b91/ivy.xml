@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.apache" module="apache" revision="6" status="release" publication="20160424115909">
+  <info organisation="org.apache" module="apache" revision="6" status="release" publication="20160424145652">
     <license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
     <description homepage="http://www.apache.org/">The Apache Software Foundation provides support for the Apache community of open-source software projects.
     The Apache projects are characterized by a collaborative, consensus based development process, an open and

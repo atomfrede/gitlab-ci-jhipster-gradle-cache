@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.apache.tomcat" module="tomcat-jdbc" revision="8.0.32" status="release" publication="20160424120312">
+  <info organisation="org.apache.tomcat" module="tomcat-jdbc" revision="8.0.32" status="release" publication="20160424150016">
     <license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
     <description homepage="http://tomcat.apache.org/">Tomcat JDBC Pool Package</description>
   </info>

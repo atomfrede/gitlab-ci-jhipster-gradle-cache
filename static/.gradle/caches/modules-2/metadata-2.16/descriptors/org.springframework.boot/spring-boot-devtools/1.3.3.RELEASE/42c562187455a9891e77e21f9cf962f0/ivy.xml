@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.springframework.boot" module="spring-boot-devtools" revision="1.3.3.RELEASE" status="release" publication="20160424115739">
+  <info organisation="org.springframework.boot" module="spring-boot-devtools" revision="1.3.3.RELEASE" status="release" publication="20160424145535">
     <description homepage="http://projects.spring.io/spring-boot/">Spring Boot Developer Tools</description>
   </info>
   <configurations>

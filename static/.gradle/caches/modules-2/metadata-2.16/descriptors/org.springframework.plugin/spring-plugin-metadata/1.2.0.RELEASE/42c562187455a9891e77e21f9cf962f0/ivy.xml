@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.springframework.plugin" module="spring-plugin-metadata" revision="1.2.0.RELEASE" status="release" publication="20160424120257">
+  <info organisation="org.springframework.plugin" module="spring-plugin-metadata" revision="1.2.0.RELEASE" status="release" publication="20160424150000">
     <description homepage="">Extension package for metadata based plugins</description>
   </info>
   <configurations>

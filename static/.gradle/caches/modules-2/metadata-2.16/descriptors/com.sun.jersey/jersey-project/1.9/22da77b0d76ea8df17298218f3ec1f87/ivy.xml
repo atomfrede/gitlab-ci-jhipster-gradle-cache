@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.sun.jersey" module="jersey-project" revision="1.9" status="release" publication="20160424115610">
+  <info organisation="com.sun.jersey" module="jersey-project" revision="1.9" status="release" publication="20160424145421">
     <license name="CDDL 1.1" url="http://glassfish.java.net/public/CDDL+GPL_1_1.html"/>
     <license name="GPL2 w/ CPE" url="http://glassfish.java.net/public/CDDL+GPL_1_1.html"/>
     <description homepage="https://jersey.java.net/">Jersey is the open source (under dual CDDL+GPL license) JAX-RS (JSR 311)

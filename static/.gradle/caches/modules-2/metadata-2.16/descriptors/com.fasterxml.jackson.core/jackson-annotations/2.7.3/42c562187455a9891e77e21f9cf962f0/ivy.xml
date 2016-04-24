@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.fasterxml.jackson.core" module="jackson-annotations" revision="2.7.3" status="release" publication="20160424115818">
+  <info organisation="com.fasterxml.jackson.core" module="jackson-annotations" revision="2.7.3" status="release" publication="20160424145610">
     <description homepage="http://github.com/FasterXML/jackson">Core annotations used for value types, used by Jackson data binding package.</description>
   </info>
   <configurations>

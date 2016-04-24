@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.sonarsource.parent" module="parent" revision="26" status="release" publication="20160424115605">
+  <info organisation="org.sonarsource.parent" module="parent" revision="26" status="release" publication="20160424145416">
     <license name="GNU LGPL 3" url="http://www.gnu.org/licenses/lgpl.txt"/>
     <description homepage="http://docs.sonarqube.org/display/PLUG/Plugin+Library">Parent pom of SonarSource public projects</description>
   </info>

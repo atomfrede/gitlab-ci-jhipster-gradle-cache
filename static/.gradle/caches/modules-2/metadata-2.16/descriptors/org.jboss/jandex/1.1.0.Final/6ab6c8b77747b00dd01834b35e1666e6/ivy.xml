@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.jboss" module="jandex" revision="1.1.0.Final" status="release" publication="20160424120131">
+  <info organisation="org.jboss" module="jandex" revision="1.1.0.Final" status="release" publication="20160424145847">
     <license name="AL 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
     <description homepage=""/>
   </info>

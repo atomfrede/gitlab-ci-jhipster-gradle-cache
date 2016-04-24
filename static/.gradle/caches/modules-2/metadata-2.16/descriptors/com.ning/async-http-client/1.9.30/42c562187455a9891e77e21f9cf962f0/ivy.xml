@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.ning" module="async-http-client" revision="1.9.30" status="release" publication="20160424132907">
+  <info organisation="com.ning" module="async-http-client" revision="1.9.30" status="release" publication="20160424150241">
     <license name="Apache License 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
     <description homepage="http://github.com/AsyncHttpClient/async-http-client">Async Http Client library purpose is to allow Java applications to easily execute HTTP requests and
         asynchronously process the HTTP responses.</description>

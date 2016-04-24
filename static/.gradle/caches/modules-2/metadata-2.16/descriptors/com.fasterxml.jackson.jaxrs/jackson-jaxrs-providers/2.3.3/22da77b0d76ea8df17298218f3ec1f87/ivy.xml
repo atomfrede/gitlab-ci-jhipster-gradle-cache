@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.fasterxml.jackson.jaxrs" module="jackson-jaxrs-providers" revision="2.3.3" status="release" publication="20160424115607">
+  <info organisation="com.fasterxml.jackson.jaxrs" module="jackson-jaxrs-providers" revision="2.3.3" status="release" publication="20160424145418">
     <description homepage="http://wiki.fasterxml.com/JacksonHome">Parent for Jackson JAX-RS providers</description>
   </info>
   <configurations>

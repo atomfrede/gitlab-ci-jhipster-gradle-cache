@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.hamcrest" module="hamcrest-library" revision="1.3" status="release" publication="20160424132805">
+  <info organisation="org.hamcrest" module="hamcrest-library" revision="1.3" status="release" publication="20160424150143">
     <description homepage="">Hamcrest library of matcher implementations.</description>
   </info>
   <configurations>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.springframework.data.build" module="spring-data-build" revision="1.7.4.RELEASE" status="release" publication="20160424115730">
+  <info organisation="org.springframework.data.build" module="spring-data-build" revision="1.7.4.RELEASE" status="release" publication="20160424145528">
     <license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
     <description homepage="https://github.com/spring-projects/spring-data-build">Modules to centralize common resources and configuration for Spring Data Maven builds.</description>
   </info>

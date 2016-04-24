@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="net.sf.ehcache" module="ehcache-parent" revision="2.18" status="release" publication="20160424120041">
+  <info organisation="net.sf.ehcache" module="ehcache-parent" revision="2.18" status="release" publication="20160424145806">
     <license name="The Apache Software License, Version 2.0" url="http://www.ehcache.org/about/license"/>
     <description homepage="http://ehcache.org">Ehcache is a widely used, pure Java, in-process, distributed cache</description>
   </info>

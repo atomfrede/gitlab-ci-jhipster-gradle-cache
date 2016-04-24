@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="io.dropwizard.metrics" module="metrics-servlets" revision="3.1.2" status="release" publication="20160424115802">
+  <info organisation="io.dropwizard.metrics" module="metrics-servlets" revision="3.1.2" status="release" publication="20160424145556">
     <description homepage="">A set of utility servlets for Metrics, allowing you to expose valuable information about
         your production environment.</description>
   </info>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.fasterxml.jackson.datatype" module="jackson-datatype-jsr310" revision="2.7.3" status="release" publication="20160424115814">
+  <info organisation="com.fasterxml.jackson.datatype" module="jackson-datatype-jsr310" revision="2.7.3" status="release" publication="20160424145606">
     <description homepage="http://wiki.fasterxml.com/JacksonModuleJSR310">Add-on module to support JSR-310 (Java 8 Date &amp; Time API) data types.</description>
   </info>
   <configurations>

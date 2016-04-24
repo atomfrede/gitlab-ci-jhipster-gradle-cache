@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.jodd" module="jodd-core" revision="3.6.6" status="release" publication="20160424132947">
+  <info organisation="org.jodd" module="jodd-core" revision="3.6.6" status="release" publication="20160424150319">
     <license name="The New BSD License" url="http://jodd.org/license.html"/>
     <description homepage="http://jodd.org">Jodd Core tools and utilities, including type converters, JDateTime, cache etc.</description>
   </info>

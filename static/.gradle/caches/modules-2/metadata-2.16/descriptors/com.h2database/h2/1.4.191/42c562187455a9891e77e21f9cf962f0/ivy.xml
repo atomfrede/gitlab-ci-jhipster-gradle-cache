@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.h2database" module="h2" revision="1.4.191" status="release" publication="20160424120011">
+  <info organisation="com.h2database" module="h2" revision="1.4.191" status="release" publication="20160424145741">
     <license name="MPL 2.0, and EPL 1.0" url="http://h2database.com/html/license.html"/>
     <description homepage="http://www.h2database.com">H2 Database Engine</description>
   </info>

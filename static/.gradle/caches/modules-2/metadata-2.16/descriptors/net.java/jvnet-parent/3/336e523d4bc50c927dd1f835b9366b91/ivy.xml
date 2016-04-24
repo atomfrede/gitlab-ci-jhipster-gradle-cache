@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="net.java" module="jvnet-parent" revision="3" status="release" publication="20160424115851">
+  <info organisation="net.java" module="jvnet-parent" revision="3" status="release" publication="20160424145638">
     <description homepage="http://java.net/">Java.net - The Source for Java Technology Collaboration</description>
   </info>
   <configurations>

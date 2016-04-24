@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.github.scopt" module="scopt_2.11" revision="3.3.0" status="release" publication="20160424132841">
+  <info organisation="com.github.scopt" module="scopt_2.11" revision="3.3.0" status="release" publication="20160424150217">
     <license name="MIT License" url="http://www.opensource.org/licenses/mit-license.php"/>
     <description homepage="https://github.com/scopt/scopt">a command line options parsing library</description>
   </info>

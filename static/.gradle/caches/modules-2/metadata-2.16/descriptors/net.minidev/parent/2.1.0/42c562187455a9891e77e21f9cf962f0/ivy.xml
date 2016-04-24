@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="net.minidev" module="parent" revision="2.1.0" status="release" publication="20160424132817">
+  <info organisation="net.minidev" module="parent" revision="2.1.0" status="release" publication="20160424150156">
     <license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
     <description homepage="http://www.minidev.net/">minidev common properties.</description>
   </info>

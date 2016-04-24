@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.threeten" module="threetenbp" revision="1.2" status="release" publication="20160424132902">
+  <info organisation="org.threeten" module="threetenbp" revision="1.2" status="release" publication="20160424150237">
     <license name="BSD 3-clause" url="https://raw.githubusercontent.com/ThreeTen/threetenbp/master/LICENSE.txt"/>
     <description homepage="https://www.threeten.org/threetenbp">Backport of JSR-310 from JDK 8 to JDK 7 and JDK 6. NOT an implementation of the JSR.</description>
   </info>

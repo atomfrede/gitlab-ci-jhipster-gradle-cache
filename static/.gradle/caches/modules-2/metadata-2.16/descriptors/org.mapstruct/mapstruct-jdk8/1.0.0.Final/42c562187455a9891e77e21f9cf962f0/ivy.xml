@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.mapstruct" module="mapstruct-jdk8" revision="1.0.0.Final" status="release" publication="20160424120015">
+  <info organisation="org.mapstruct" module="mapstruct-jdk8" revision="1.0.0.Final" status="release" publication="20160424145744">
     <description homepage="">MapStruct annotations to be used with JDK 8 and later</description>
   </info>
   <configurations>

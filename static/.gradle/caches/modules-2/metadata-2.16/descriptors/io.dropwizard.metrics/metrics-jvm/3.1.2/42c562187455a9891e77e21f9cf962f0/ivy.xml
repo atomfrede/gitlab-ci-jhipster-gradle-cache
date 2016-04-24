@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="io.dropwizard.metrics" module="metrics-jvm" revision="3.1.2" status="release" publication="20160424115757">
+  <info organisation="io.dropwizard.metrics" module="metrics-jvm" revision="3.1.2" status="release" publication="20160424145552">
     <description homepage="">A set of classes which allow you to monitor critical aspects of your Java Virtual Machine
         using Metrics.</description>
   </info>

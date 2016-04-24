@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="junit" module="junit" revision="4.12" status="release" publication="20160424132802">
+  <info organisation="junit" module="junit" revision="4.12" status="release" publication="20160424150140">
     <license name="Eclipse Public License 1.0" url="http://www.eclipse.org/legal/epl-v10.html"/>
     <description homepage="http://junit.org">JUnit is a unit testing framework for Java, created by Erich Gamma and Kent Beck.</description>
   </info>

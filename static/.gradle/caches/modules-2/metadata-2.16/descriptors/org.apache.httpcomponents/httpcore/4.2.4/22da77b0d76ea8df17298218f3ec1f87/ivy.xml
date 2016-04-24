@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.apache.httpcomponents" module="httpcore" revision="4.2.4" status="release" publication="20160424115624">
+  <info organisation="org.apache.httpcomponents" module="httpcore" revision="4.2.4" status="release" publication="20160424145434">
     <description homepage="http://hc.apache.org/httpcomponents-core-ga">HttpComponents Core (blocking I/O)</description>
   </info>
   <configurations>

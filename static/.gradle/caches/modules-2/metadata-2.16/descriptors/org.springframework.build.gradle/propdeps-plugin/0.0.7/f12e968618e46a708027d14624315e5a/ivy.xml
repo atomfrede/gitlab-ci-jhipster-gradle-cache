@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.springframework.build.gradle" module="propdeps-plugin" revision="0.0.7" status="release" publication="20160424115602">
+  <info organisation="org.springframework.build.gradle" module="propdeps-plugin" revision="0.0.7" status="release" publication="20160424145414">
     <description homepage=""/>
   </info>
   <configurations>

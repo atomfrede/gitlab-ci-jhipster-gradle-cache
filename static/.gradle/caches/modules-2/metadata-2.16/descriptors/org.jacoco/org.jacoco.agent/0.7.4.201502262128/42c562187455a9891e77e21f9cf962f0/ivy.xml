@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.jacoco" module="org.jacoco.agent" revision="0.7.4.201502262128" status="release" publication="20160424133011">
+  <info organisation="org.jacoco" module="org.jacoco.agent" revision="0.7.4.201502262128" status="release" publication="20160424150343">
     <description homepage="">JaCoCo Agent</description>
   </info>
   <configurations>

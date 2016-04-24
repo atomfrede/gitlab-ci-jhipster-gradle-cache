@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.postgresql" module="postgresql" revision="9.4-1203-jdbc42" status="release" publication="20160424120009">
+  <info organisation="org.postgresql" module="postgresql" revision="9.4-1203-jdbc42" status="release" publication="20160424145740">
     <license name="The PostgreSQL License" url="http://www.postgresql.org/about/licence/"/>
     <description homepage="http://jdbc.postgresql.org">PostgreSQL JDBC Driver JDBC42</description>
   </info>

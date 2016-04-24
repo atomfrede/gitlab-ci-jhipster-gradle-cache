@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.liquibase" module="liquibase-core" revision="3.4.2" status="release" publication="20160424115928">
+  <info organisation="org.liquibase" module="liquibase-core" revision="3.4.2" status="release" publication="20160424145707">
     <description homepage=""/>
   </info>
   <configurations>

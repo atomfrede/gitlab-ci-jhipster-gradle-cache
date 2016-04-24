@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.apache.geronimo.specs" module="geronimo-jms_1.1_spec" revision="1.1.1" status="release" publication="20160424132928">
+  <info organisation="org.apache.geronimo.specs" module="geronimo-jms_1.1_spec" revision="1.1.1" status="release" publication="20160424150302">
     <description homepage=""/>
   </info>
   <configurations>

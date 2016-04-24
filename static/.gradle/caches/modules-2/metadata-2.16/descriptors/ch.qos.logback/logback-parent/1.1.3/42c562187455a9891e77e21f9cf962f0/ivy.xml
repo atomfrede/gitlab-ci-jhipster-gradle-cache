@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="ch.qos.logback" module="logback-parent" revision="1.1.3" status="release" publication="20160424120044">
+  <info organisation="ch.qos.logback" module="logback-parent" revision="1.1.3" status="release" publication="20160424145809">
     <license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/legal/epl-v10.html"/>
     <license name="GNU Lesser General Public License" url="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html"/>
     <description homepage="http://logback.qos.ch">logback project pom.xml file</description>

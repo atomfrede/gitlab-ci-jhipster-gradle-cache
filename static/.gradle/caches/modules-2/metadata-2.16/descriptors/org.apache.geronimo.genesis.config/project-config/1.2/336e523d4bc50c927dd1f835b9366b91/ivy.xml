@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.apache.geronimo.genesis.config" module="project-config" revision="1.2" status="release" publication="20160424132933">
+  <info organisation="org.apache.geronimo.genesis.config" module="project-config" revision="1.2" status="release" publication="20160424150307">
     <license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
     <description homepage="http://geronimo.apache.org">Genesis project-config provides the common project configuration shared
         by all Apache Geronimo projects.</description>

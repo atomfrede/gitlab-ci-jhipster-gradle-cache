@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.json" module="json" revision="20140107" status="release" publication="20160424120301">
+  <info organisation="org.json" module="json" revision="20140107" status="release" publication="20160424150004">
     <license name="The JSON License" url="http://json.org/license.html"/>
     <description homepage="https://github.com/douglascrockford/JSON-java">JSON is a light-weight, language independent, data interchange format.
 		See http://www.JSON.org/

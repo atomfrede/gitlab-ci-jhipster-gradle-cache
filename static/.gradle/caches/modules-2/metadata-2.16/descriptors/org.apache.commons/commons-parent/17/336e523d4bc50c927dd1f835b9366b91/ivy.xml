@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.apache.commons" module="commons-parent" revision="17" status="release" publication="20160424115829">
+  <info organisation="org.apache.commons" module="commons-parent" revision="17" status="release" publication="20160424145619">
     <description homepage="http://commons.apache.org/"/>
   </info>
   <configurations>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="io.swagger" module="swagger-models" revision="1.5.6" status="release" publication="20160424120243">
+  <info organisation="io.swagger" module="swagger-models" revision="1.5.6" status="release" publication="20160424145947">
     <description homepage=""/>
   </info>
   <configurations>

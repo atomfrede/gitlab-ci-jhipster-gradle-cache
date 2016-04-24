@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.apache.geronimo.specs" module="specs" revision="1.4" status="release" publication="20160424132930">
+  <info organisation="org.apache.geronimo.specs" module="specs" revision="1.4" status="release" publication="20160424150304">
     <description homepage="">Provides open-source implementations of Sun specifications.</description>
   </info>
   <configurations>

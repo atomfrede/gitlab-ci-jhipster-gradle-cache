@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="antlr" module="antlr" revision="2.7.7" status="release" publication="20160424120130">
+  <info organisation="antlr" module="antlr" revision="2.7.7" status="release" publication="20160424145846">
     <license name="BSD License" url="http://www.antlr.org/license.html"/>
     <description homepage="http://www.antlr.org/">A framework for constructing recognizers, compilers,
     and translators from grammatical descriptions containing

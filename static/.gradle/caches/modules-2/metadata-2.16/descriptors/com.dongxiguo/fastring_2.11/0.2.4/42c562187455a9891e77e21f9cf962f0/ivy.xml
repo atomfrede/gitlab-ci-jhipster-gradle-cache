@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.dongxiguo" module="fastring_2.11" revision="0.2.4" status="release" publication="20160424132858">
+  <info organisation="com.dongxiguo" module="fastring_2.11" revision="0.2.4" status="release" publication="20160424150232">
     <license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
     <description homepage="https://github.com/Atry/fastring">fastring</description>
   </info>

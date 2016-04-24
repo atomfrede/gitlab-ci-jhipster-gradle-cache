@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="io.dropwizard.metrics" module="metrics-ehcache" revision="3.1.2" status="release" publication="20160424115751">
+  <info organisation="io.dropwizard.metrics" module="metrics-ehcache" revision="3.1.2" status="release" publication="20160424145547">
     <description homepage="">An Ehcache wrapper providing Metrics instrumentation of caches.</description>
   </info>
   <configurations>

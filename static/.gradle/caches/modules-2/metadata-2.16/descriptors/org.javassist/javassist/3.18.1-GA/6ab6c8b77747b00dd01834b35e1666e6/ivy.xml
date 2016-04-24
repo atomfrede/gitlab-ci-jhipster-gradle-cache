@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.javassist" module="javassist" revision="3.18.1-GA" status="release" publication="20160424120126">
+  <info organisation="org.javassist" module="javassist" revision="3.18.1-GA" status="release" publication="20160424145843">
     <license name="MPL 1.1" url="http://www.mozilla.org/MPL/MPL-1.1.html"/>
     <license name="LGPL 2.1" url="http://www.gnu.org/licenses/lgpl-2.1.html"/>
     <license name="Apache License 2.0" url="http://www.apache.org/licenses/"/>

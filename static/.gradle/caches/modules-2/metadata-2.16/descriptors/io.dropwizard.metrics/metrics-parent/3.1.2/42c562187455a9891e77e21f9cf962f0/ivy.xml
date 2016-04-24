@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="io.dropwizard.metrics" module="metrics-parent" revision="3.1.2" status="release" publication="20160424115747">
+  <info organisation="io.dropwizard.metrics" module="metrics-parent" revision="3.1.2" status="release" publication="20160424145544">
     <license name="Apache License 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
     <description homepage="http://metrics.codahale.com/">The Metrics library.</description>
   </info>

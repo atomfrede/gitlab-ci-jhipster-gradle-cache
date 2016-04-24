@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.sun.jersey.contribs" module="jersey-contribs" revision="1.9" status="release" publication="20160424115610">
+  <info organisation="com.sun.jersey.contribs" module="jersey-contribs" revision="1.9" status="release" publication="20160424145420">
     <description homepage="">Projects that provide additional functionality to jersey, like integration
         with other projects/frameworks.</description>
   </info>

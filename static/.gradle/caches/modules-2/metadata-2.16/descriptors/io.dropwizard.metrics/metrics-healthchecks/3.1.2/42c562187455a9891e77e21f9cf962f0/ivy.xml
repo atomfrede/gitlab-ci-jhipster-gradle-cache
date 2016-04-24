@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="io.dropwizard.metrics" module="metrics-healthchecks" revision="3.1.2" status="release" publication="20160424115755">
+  <info organisation="io.dropwizard.metrics" module="metrics-healthchecks" revision="3.1.2" status="release" publication="20160424145550">
     <description homepage="">An addition to Metrics which provides the ability to run application-specific health checks,
         allowing you to check your application's heath in production.</description>
   </info>

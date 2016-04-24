@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.assertj" module="assertj-core" revision="3.3.0" status="release" publication="20160424132759">
+  <info organisation="org.assertj" module="assertj-core" revision="3.3.0" status="release" publication="20160424150137">
     <description homepage="">Rich and fluent assertions for testing for Java</description>
   </info>
   <configurations>

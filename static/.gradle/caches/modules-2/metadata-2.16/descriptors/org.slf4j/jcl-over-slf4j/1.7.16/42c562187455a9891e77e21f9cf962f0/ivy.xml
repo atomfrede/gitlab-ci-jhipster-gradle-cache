@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.slf4j" module="jcl-over-slf4j" revision="1.7.16" status="release" publication="20160424120145">
+  <info organisation="org.slf4j" module="jcl-over-slf4j" revision="1.7.16" status="release" publication="20160424145900">
     <description homepage="http://www.slf4j.org">JCL 1.1.1 implemented over SLF4J</description>
   </info>
   <configurations>

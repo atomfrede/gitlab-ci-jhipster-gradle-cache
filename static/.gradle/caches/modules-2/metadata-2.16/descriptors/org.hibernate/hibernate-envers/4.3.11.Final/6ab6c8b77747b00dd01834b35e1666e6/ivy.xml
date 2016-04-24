@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.hibernate" module="hibernate-envers" revision="4.3.11.Final" status="release" publication="20160424115914">
+  <info organisation="org.hibernate" module="hibernate-envers" revision="4.3.11.Final" status="release" publication="20160424145657">
     <license name="GNU Lesser General Public License" url="http://www.gnu.org/licenses/lgpl-2.1.html"/>
     <description homepage="http://hibernate.org">Entity versioning support</description>
   </info>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="io.gatling" module="gatling-jdbc" revision="2.1.7" status="release" publication="20160424132833">
+  <info organisation="io.gatling" module="gatling-jdbc" revision="2.1.7" status="release" publication="20160424150212">
     <license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
     <description homepage="http://gatling.io">gatling-jdbc</description>
   </info>

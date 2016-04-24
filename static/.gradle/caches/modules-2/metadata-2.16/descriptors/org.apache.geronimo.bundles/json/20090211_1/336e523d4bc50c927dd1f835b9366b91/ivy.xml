@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.apache.geronimo.bundles" module="json" revision="20090211_1" status="release" publication="20160424120053">
+  <info organisation="org.apache.geronimo.bundles" module="json" revision="20090211_1" status="release" publication="20160424145816">
     <description homepage="">This bundle simply wraps ${pkgArtifactId}-${pkgVersion}.jar.</description>
   </info>
   <configurations>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.scala-lang.modules" module="scala-xml_2.11" revision="1.0.4" status="release" publication="20160424132925">
+  <info organisation="org.scala-lang.modules" module="scala-xml_2.11" revision="1.0.4" status="release" publication="20160424150259">
     <license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
     <description homepage="http://www.scala-lang.org/">scala-xml</description>
   </info>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="net.sf.ehcache" module="ehcache" revision="2.10.1" status="release" publication="20160424120037">
+  <info organisation="net.sf.ehcache" module="ehcache" revision="2.10.1" status="release" publication="20160424145803">
     <license name="The Apache Software License, Version 2.0" url="src/assemble/EHCACHE-CORE-LICENSE.txt"/>
     <description homepage="http://ehcache.org">Ehcache is an open source, standards-based cache used to boost performance,
   offload the database and simplify scalability. Ehcache is robust, proven and full-featured and

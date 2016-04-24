@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.jboss.spec.javax.transaction" module="jboss-transaction-api_1.2_spec" revision="1.0.0.Final" status="release" publication="20160424120119">
+  <info organisation="org.jboss.spec.javax.transaction" module="jboss-transaction-api_1.2_spec" revision="1.0.0.Final" status="release" publication="20160424145836">
     <license name="Common Development and Distribution License" url="http://repository.jboss.org/licenses/cddl.txt"/>
     <license name="GNU General Public License, Version 2 with the Classpath Exception" url="http://repository.jboss.org/licenses/gpl-2.0-ce.txt"/>
     <description homepage="">The Java Transaction 1.2 API classes</description>

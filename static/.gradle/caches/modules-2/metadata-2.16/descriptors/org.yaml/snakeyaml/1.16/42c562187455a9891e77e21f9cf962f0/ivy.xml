@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="org.yaml" module="snakeyaml" revision="1.16" status="release" publication="20160424120310">
+  <info organisation="org.yaml" module="snakeyaml" revision="1.16" status="release" publication="20160424150014">
     <license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
     <description homepage="http://www.snakeyaml.org">YAML 1.1 parser and emitter for Java</description>
   </info>

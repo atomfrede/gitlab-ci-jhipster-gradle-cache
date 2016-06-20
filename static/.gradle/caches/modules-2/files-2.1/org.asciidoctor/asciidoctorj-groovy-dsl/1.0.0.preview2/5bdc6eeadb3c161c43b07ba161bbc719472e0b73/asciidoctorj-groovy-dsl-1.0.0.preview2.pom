@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.asciidoctor</groupId>
+  <artifactId>asciidoctorj-groovy-dsl</artifactId>
+  <version>1.0.0.preview2</version>
+  <dependencies>
+    <dependency>
+      <groupId>org.codehaus.groovy</groupId>
+      <artifactId>groovy-all</artifactId>
+      <version>1.8.9</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.asciidoctor</groupId>
+      <artifactId>asciidoctorj</artifactId>
+      <version>1.5.1</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+  <name>asciidoctorj-groovy-dsl</name>
+  <url>http://asciidoctor.org</url>
+  <inceptionYear>2014</inceptionYear>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <scm>
+    <url>https://github.com/robertpanzer/asciidoctorj-groovy-dsl</url>
+  </scm>
+  <developers>
+    <developer>
+      <id>mojavelinux</id>
+      <name>Dan Allen</name>
+      <roles>
+        <role>Asciidoctor Founder and Benevolent Dictator</role>
+        <role>Open Source Hero</role>
+      </roles>
+    </developer>
+    <developer>
+      <id>bobbytank42</id>
+      <name>Robert Panzer</name>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+  </developers>
+  <contributors/>
+</project>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
+  <info organisation="org.springframework.cloud" module="spring-cloud-netflix-core" revision="1.1.0.RC2" status="release" publication="20160502073423">
+    <description homepage="">Spring Cloud Netflix Core</description>
+  </info>
+  <configurations>
+    <conf name="default" visibility="public" description="runtime dependencies and master artifact can be used with this conf" extends="runtime,master"/>
+    <conf name="master" visibility="public" description="contains only the artifact published by this module itself, with no transitive dependencies"/>
+    <conf name="compile" visibility="public" description="this is the default scope, used if none is specified. Compile dependencies are available in all classpaths."/>
+    <conf name="provided" visibility="public" description="this is much like compile, but indicates you expect the JDK or a container to provide it. It is only available on the compilation classpath, and is not transitive."/>
+    <conf name="runtime" visibility="public" description="this scope indicates that the dependency is not required for compilation, but is for execution. It is in the runtime and test classpaths, but not the compile classpath." extends="compile"/>
+    <conf name="test" visibility="private" description="this scope indicates that the dependency is not required for normal use of the application, and is only available for the test compilation and execution phases." extends="runtime"/>
+    <conf name="system" visibility="public" description="this scope is similar to provided except that you have to provide the JAR which contains it explicitly. The artifact is always available and is not looked up in a repository."/>
+    <conf name="sources" visibility="public" description="this configuration contains the source artifact of this module, if any."/>
+    <conf name="javadoc" visibility="public" description="this configuration contains the javadoc artifact of this module, if any."/>
+    <conf name="optional" visibility="public" description="contains all optional dependencies"/>
+  </configurations>
+  <publications/>
+  <dependencies>
+    <dependency org="org.springframework.boot" name="spring-boot-configuration-processor" rev="1.3.3.RELEASE" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="org.springframework.boot" name="spring-boot" rev="1.3.3.RELEASE" force="true" conf="compile-&gt;compile(*),master(*);runtime-&gt;runtime(*)"/>
+    <dependency org="org.springframework.boot" name="spring-boot-autoconfigure" rev="1.3.3.RELEASE" force="true" conf="compile-&gt;compile(*),master(*);runtime-&gt;runtime(*)"/>
+    <dependency org="org.springframework.boot" name="spring-boot-starter-actuator" rev="1.3.3.RELEASE" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="org.springframework.boot" name="spring-boot-starter-web" rev="1.3.3.RELEASE" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="org.springframework.cloud" name="spring-cloud-commons" rev="1.1.0.RC3" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="org.springframework.cloud" name="spring-cloud-context" rev="1.1.0.RC3" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="com.netflix.archaius" name="archaius-core" rev="0.7.4" force="true" conf="optional-&gt;compile(*),master(*)">
+      <exclude org="commons-logging" module="commons-logging" name="*" type="*" ext="*" conf="" matcher="exact"/>
+      <exclude org="com.google.code.findbugs" module="annotations" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="commons-configuration" name="commons-configuration" rev="1.8" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="com.netflix.servo" name="servo-core" rev="0.10.1" force="true" conf="optional-&gt;compile(*),master(*)">
+      <exclude org="com.google.code.findbugs" module="annotations" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="com.netflix.netflix-commons" name="netflix-commons-util" rev="0.1.1" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="javax.inject" name="javax.inject" rev="1" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="com.netflix.ribbon" name="ribbon-loadbalancer" rev="2.1.5" force="true" conf="optional-&gt;compile(*),master(*)">
+      <exclude org="com.google.code.findbugs" module="annotations" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="com.netflix.feign" name="feign-core" rev="8.16.0" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="com.netflix.feign" name="feign-slf4j" rev="8.16.0" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="com.netflix.feign" name="feign-httpclient" rev="8.16.0" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="com.netflix.feign" name="feign-hystrix" rev="8.16.0" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="com.netflix.feign" name="feign-okhttp" rev="8.16.0" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="com.netflix.hystrix" name="hystrix-core" rev="1.5.2" force="true" conf="optional-&gt;compile(*),master(*)">
+      <exclude org="com.google.code.findbugs" module="annotations" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="com.netflix.hystrix" name="hystrix-metrics-event-stream" rev="1.5.2" force="true" conf="optional-&gt;compile(*),master(*)">
+      <exclude org="javax.servlet" module="servlet-api" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="com.netflix.hystrix" name="hystrix-javanica" rev="1.5.2" force="true" conf="optional-&gt;compile(*),master(*)">
+      <exclude org="com.google.code.findbugs" module="jsr305" name="*" type="*" ext="*" conf="" matcher="exact"/>
+      <exclude org="com.google.code.findbugs" module="annotations" name="*" type="*" ext="*" conf="" matcher="exact"/>
+      <exclude org="org.aspectj" module="aspectjrt" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="com.netflix.ribbon" name="ribbon" rev="2.1.5" force="true" conf="optional-&gt;compile(*),master(*)">
+      <exclude org="commons-logging" module="commons-logging" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="com.netflix.ribbon" name="ribbon-core" rev="2.1.5" force="true" conf="optional-&gt;compile(*),master(*)">
+      <exclude org="com.google.code.findbugs" module="annotations" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="com.netflix.ribbon" name="ribbon-httpclient" rev="2.1.5" force="true" conf="optional-&gt;compile(*),master(*)">
+      <exclude org="com.google.code.findbugs" module="annotations" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="com.netflix.zuul" name="zuul-core" rev="1.1.0" force="true" conf="optional-&gt;compile(*),master(*)">
+      <exclude org="org.codehaus.groovy" module="groovy-all" name="*" type="*" ext="*" conf="" matcher="exact"/>
+      <exclude org="org.mockito" module="mockito-all" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="io.reactivex" name="rxjava" rev="1.1.2" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="com.sun.jersey.contribs" name="jersey-apache-client4" rev="1.19.1" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="com.squareup.okhttp" name="okhttp" rev="2.5.0" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="org.projectlombok" name="lombok" rev="1.16.6" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="org.springframework.boot" name="spring-boot-starter-test" rev="1.3.3.RELEASE" force="true" conf="test-&gt;runtime(*),master(*)">
+      <exclude org="commons-logging" module="commons-logging" name="*" type="*" ext="*" conf="" matcher="exact"/>
+    </dependency>
+    <dependency org="org.springframework.boot" name="spring-boot-starter-jdbc" rev="1.3.3.RELEASE" force="true" conf="test-&gt;runtime(*),master(*)"/>
+    <dependency org="com.h2database" name="h2" rev="1.4.191" force="true" conf="test-&gt;runtime(*),master(*)"/>
+    <dependency org="org.aspectj" name="aspectjweaver" rev="1.8.8" force="true" conf="optional-&gt;compile(*),master(*)"/>
+    <dependency org="com.fasterxml.jackson.dataformat" name="jackson-dataformat-smile" rev="2.6.5" force="true" conf="optional-&gt;compile(*),master(*)"/>
+  </dependencies>
+</ivy-module>
